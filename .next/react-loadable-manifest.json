@@ -1,0 +1,16 @@
+{
+  "..\\helpers\\apollo\\apollo.js -> @apollo/react-ssr": {
+    "id": "89Zu",
+    "files": [
+      "static/chunks/framework.ae8d243c4963200a7233.js",
+      "static/chunks/298.73d127788946d5fc5f2f.js"
+    ]
+  },
+  "page\\vendor\\common\\dashboard.js -> react-apexcharts": {
+    "id": "o+DJ",
+    "files": [
+      "static/chunks/6c44d60f.10eb1e495cef3b91fc72.js",
+      "static/chunks/299.232ab03dfd2c299717b1.js"
+    ]
+  }
+}
